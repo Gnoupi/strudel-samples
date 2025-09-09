@@ -1,5 +1,5 @@
 {
-  "_base": "https://raw.githubusercontent.com/gnoupi/strudel-samples/blob/main/",
+  "_base": "https://raw.githubusercontent.com/gnoupi/strudel-samples/main/",
   "spilltab": "spilltab/spilltab.wav",
   "cocaina": "cocaina/cocaina.wav",
   "heartbeat": ["heartbeat/heartbeat1.wav", "heartbeat/heartbeat2.wav"],
